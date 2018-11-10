@@ -1,0 +1,5 @@
+在控制台中输入scrapy startproject tencent 创建爬虫项目名字为 tencent
+
+scrapy crawl tencent 即可爬取
+
+https://www.cnblogs.com/ingxx/p/8017376.html  借鉴
